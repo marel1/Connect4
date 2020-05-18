@@ -1,4 +1,4 @@
-# Connect4-
+# Connect4
 Simple game with AI
 
 Connect Four is a game where two players alternate turns
